@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ferran77/intro_React/static/css/main.0554c506.css",
+    "main.js": "/Ferran77/intro_React/static/js/main.d5ff4d27.js",
+    "index.html": "/Ferran77/intro_React/index.html",
+    "static/media/delete.svg": "/Ferran77/intro_React/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
+    "static/media/check.svg": "/Ferran77/intro_React/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
+    "main.0554c506.css.map": "/Ferran77/intro_React/static/css/main.0554c506.css.map",
+    "main.d5ff4d27.js.map": "/Ferran77/intro_React/static/js/main.d5ff4d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0554c506.css",
+    "static/js/main.d5ff4d27.js"
+  ]
+}
